@@ -2,7 +2,7 @@
 This project was done in the context of a study module called "Procedural Art".<br>
 Goal was to create scripts, which helped generate a procedural city or village, based on a chosen theme.<br>
 The theme of this repository was Morthal, a village from the game The Elder Scrolls V: Skyrim.<br>
-All tools used were custom made, and are compatible to use within the editor of Unity.
+All tools used were custom made, and are compatible to use within the editor of Unity.<br>
 For additional details, refer to the [Wiki](https://github.com/Andruchne/Village-Creation-Procedural-Art/wiki/Documentation)
 <br>
 <br>
